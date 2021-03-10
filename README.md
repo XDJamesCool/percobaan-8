@@ -48,8 +48,8 @@ Script ini di modifikasi sama saya sendiri XDJames.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/XDJamesCool/-XDJames-Bot
-> cd -XDJames-Bot
+> git clone https://github.com/XDJamesCool/percobaan-8
+> cd percobaan-8
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
