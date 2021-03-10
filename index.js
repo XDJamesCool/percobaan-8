@@ -2236,7 +2236,7 @@ await limitAdd(sender)
 break														
 /*
 ]=====> TQTO <=====[
-> XDJames
+> Ramlan ID
 > REVOER ID
 > ARIS ID
 > NADIA CANS
