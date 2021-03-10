@@ -1,23 +1,23 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm XDJames
 <p align="center">
-<img src="https://raw.githubusercontent.com/XDJamesCool/-XDJames-Bot/main/assets/XDJames.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/XDJamesCool/percobaan-8/main/assets/XDJames.jpg" width="230" height="230"/>
 </p>
 <br>
 
 
 
 <p align="center">
-<a href="#"><img title="XDJames ID" src="https://img.shields.io/badge/XDJames-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="XDJames" src="https://img.shields.io/badge/XDJames-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/XDJames"><img title="Author" src="https://img.shields.io/badge/AUTHOR-XDJames-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/XDJamesCool/-XDJames-Bot/followers"><img title="Followers" src="https://img.shields.io/github/followers/XDJamesCool?color=blue&style=flat-square"></a>
-<a href="https://github.com/XDJamesCool/-XDJames-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XDJamesCool/-XDJames-Botcolor=red&style=flat-square"></a>
-<a href="https://github.com/XDJamesCool/-XDJames-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/XDJamesCool/-XDJames-Bot?color=red&style=flat-square"></a>
-<a href="https://github.com/XDJamesCool/-XDJames-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XDJamesCool/-XDJames-Bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXDJamesCool%2F-XDJames-Bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/XDJamesCool/percobaan-8/followers"><img title="Followers" src="https://img.shields.io/github/followers/XDJamesCool?color=blue&style=flat-square"></a>
+<a href="https://github.com/XDJamesCool/percobaan-8/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XDJamesCool/percobaan-8color=red&style=flat-square"></a>
+<a href="https://github.com/XDJamesCool/percobaan-8/network/members"><img title="Forks" src="https://img.shields.io/github/forks/XDJamesCool/percobaan-8?color=red&style=flat-square"></a>
+<a href="https://github.com/XDJamesCool/percobaan-8/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XDJamesCool/percobaan-8?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXDJamesCool%2Fpercobaan-8&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
